@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+.map{position:relative;width:1000px;height:1279px;font-family:"微软雅黑";font-size:12px;color:#333;
+    background:url("map.jpg") no-repeat;}
+.map a{position:absolute;display:block;}
+.cx{top:150px;left:255px;width:160px;height:140px;}
+.yy{top:280px;left:155px;width:50px;height:170px;}
+.zh{top:365px;left:485px;width:85px;height:30px;}
+.jb{top:365px;left:385px;width:75px;height:50px;}
+.hs{top:470px;left:278px;width:160px;height:50px;}
+.bl{top:450px;right:230px;width:120px;height:60px;}
+.yz{top:510px;right:360px;width:155px;height:90px;}
+.fh{top:620px;left:275px;width:180px;height:95px;}
+.xs{bottom:270px;right:270px;width:48px;height:200px;}
+.nh{left:290px;bottom:320px;width:300px;height:90px;}
